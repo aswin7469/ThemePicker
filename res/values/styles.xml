@@ -48,7 +48,7 @@
         <item name="itemTextAppearanceInactive">@style/BottomNavTextAppearance</item>
         <item name="itemBackground">?android:attr/selectableItemBackgroundBorderless</item>
         <item name="background">@color/color_primary</item>
-        <item name="android:background">@color/color_primary</item>
+        <item name="android:background">@color/bottom_nav_background</item>
     </style>
 
     <style name="BottomNavTextAppearance" parent="HeaderTextAppearance">
